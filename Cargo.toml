@@ -1,0 +1,9 @@
+[package]
+name = "yew-do-yew"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+yew = "0.18"
+wasm-logger = "0.2.0"
+wasm-bindgen = "0.2.77"
